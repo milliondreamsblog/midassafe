@@ -1,0 +1,15 @@
+.nav-link {
+  @apply text-gray-600 hover:text-orange-500;
+}
+
+.active-nav-link {
+  @apply text-orange-500 font-semibold;
+}
+
+.icon {
+  @apply cursor-pointer hover:text-orange-500;
+}
+
+.dropdown-link {
+  @apply text-gray-600 hover:text-orange-500 block;
+}
