@@ -14,14 +14,14 @@ const Hero = () => {
                 {/* Content */}
                 <div className="relative top-16 sm:top-28 z-10 flex flex-col justify-center h-full px-6 lg:px-20 text-white">
                     <h1 className="text-5xl lg:text-6xl font-extrabold mb-6 leading-tight">
-                        Lorem Ipsum Dolor
+                        Workwear Redefined: Style & Function
                     </h1>
                     <p className="max-w-xl mb-6 text-lg leading-relaxed">
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptate vitae reprehenderit eveniet animi tenetur sequi autem. Soluta voluptatum sit, commodi expedita fugiat unde velit consequatur laudantium aut earum maiores perferendis nobis harum quas nam repellat non.
+                        We pride ourselves on delivering exceptional value, with top-notch materials and designs available at competitive prices. To sweeten the deal, enjoy 40% off on selected items by signing up for our newsletter! Experience workwear that works as hard as you do, without compromising on style
                     </p>
                     <div className="relative sm:flex gap-4">
                         <button className="bg-orange-500 hover:bg-orange-600 w-auto h-12 text-white font-semibold px-6 py-3 rounded-full transition duration-300">
-                            More about High-visibility
+                            More about Midassafe
                         </button>
 
                         {/* Icons */}

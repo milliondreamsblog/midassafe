@@ -12,7 +12,8 @@ const Footer = () => {
                     <div>
                         <h3 className="text-black font-semibold text-lg mb-4">About Us</h3>
                         <p className="text-sm">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, repellendus libero. Autem cumque quisquam optio dolorem ea eligendi necessitatibus, quo natus placeat culpa illo cupiditate quos et dolor voluptas aliquam at velit. Autem, omnis blanditiis quae vitae possimus tempora impedit nesciunt in aliquid, dolores libero ipsum at atque reiciendis? Inventore.
+                            We pride ourselves on delivering exceptional value, with top-notch materials and designs available at competitive prices. To sweeten the deal, enjoy 40% off on selected items by signing up for our newsletter! Experience workwear that works as hard as you do, without compromising on style.
+
                         </p>
                     </div>
 
